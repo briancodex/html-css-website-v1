@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Git Active</title>
+    <link rel="stylesheet" href="mp_style.css">
+</head>
+<body>
+    <!-- Profile Pic-->
+    <script src="index.js"></script>
+
+    <!-- Navigation Bar 2.0-->
+    <nav class="NavBar">
+        <div class="navbar_frame">
+            <a href="/" id="navbar_pic"><img src="trojan2.png" width="130"></a>
+
+            <div class="navbar_toggle" id="mobile_view">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+            <ul class="navbar_menu">
+                <li class="navbar_name">Active_Trojan27</li>
+                <li class="navbar_item">
+                  <a href="/" class="navbar_links">HOME</a>  
+                </li>
+                <li class="navbar_item">
+                    <a href="/" class="navbar_links">LEADERBOARD</a>  
+                </li>
+                <li class="navbar_item">
+                    <a href="/" class="navbar_links">STORE</a>  
+                </li>
+                <li class="navbar_item">
+                    <a href="/" class="navbar_links">SETTINGS</a>  
+                </li>
+
+            </ul>
+        </div>
+    </nav>
+
+
+    
+</body>
+</html>
